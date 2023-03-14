@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -tr -a | tail -n 10
+ls -t1 -a | head -n 10
